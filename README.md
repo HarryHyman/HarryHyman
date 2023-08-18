@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HarryHyman's wakatime stats](https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman)](https://github.com/anuraghazra/github-readme-stats)
+[![HarryHyman's wakatime stats](https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
