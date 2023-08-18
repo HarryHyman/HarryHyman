@@ -1,7 +1,7 @@
-![HarryHyman's GitHub stats](https://github-readme-stats-harryhyman.vercel.app/api?username=HarryHyman&show_icons=true&count_private=true&theme=github_dark&hide_border=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarryHyman&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+<img width="45%" align="center" src="https://github-readme-stats-harryhyman.vercel.app/api?username=HarryHyman&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HarryHyman&theme=github_dark&hide_border=true" />
 
 
-<a><img  align="top" width="33%" src="https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
+<a><img align="top" width="33%" src="https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
 <a><img align="top" width="50%" src="https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
 
 
