@@ -1,9 +1,8 @@
-![HarryHyman's GitHub stats](https://github-readme-stats-harryhyman.vercel.app/api?username=HarryHyman&show_icons=true&count_private=true&theme=nord&hide_border=true)
+![HarryHyman's GitHub stats](https://github-readme-stats-harryhyman.vercel.app/api?username=HarryHyman&show_icons=true&count_private=true&theme=github_dark&hide_border=true) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarryHyman&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarryHyman&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarryHyman&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a><img  align="top" width="33%" src="https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
+<a><img align="top" width="50%" src="https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
 
-[![Top Langs](https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HarryHyman's wakatime stats](https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarryHyman&theme=gitdimmed&no-frame=true&column=-1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
