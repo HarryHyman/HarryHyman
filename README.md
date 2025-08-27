@@ -1,8 +1,20 @@
-<img width="45%" align="center" src="https://github-readme-stats-harryhyman.vercel.app/api?username=HarryHyman&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/> <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HarryHyman&theme=github_dark&hide_border=true" />
+# Hey, I'm Harry 👋
+I'm a 2nd Year BSc Computer Science Student at the University of Nottingham, UK.  
+I like making things that are **useful to people** - websites, tools and projects that solve real-world problems.
 
-
-<a><img align="top" width="33%" src="https://github-readme-stats-harryhyman.vercel.app/api/top-langs/?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
+## 🚀 What I'm up to
+- 🎓 Studying Computer Science at UoN
+- 🛒 [Asda Product Lookup](https://prodlookup.co.uk)
+  - A tool for Asda colleagues to search products on a per-store basis
+  - Shows barcodes & info to help colleagues help customers, and improve efficiency
+- 🌱 [Nottingham Street Aid](https://nottinghamstreetaid.net)
+  - Volunteering to improve and optimise their website.
+  - Ran by Nottingham BID, supporting homeless people in the Nottingham area through grants to charities.
+- 🤖 [CyberPowerPC UK](https://discord.gg/cyberpower) Discord Bot
+  - XP & levelling system.
+  - Integration with their website to get summaries of products.
+  - Minecraft account verification.
+  - Mini projects to boost community engagement.
+  
+## 📊 Activity
 <a><img align="top" width="50%" src="https://github-readme-stats-harryhyman.vercel.app/api/wakatime?username=HarryHyman&theme=github_dark&hide_border=true&layout=compact" /></a>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarryHyman&theme=gitdimmed&no-frame=true&column=-1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
